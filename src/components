@@ -1,0 +1,6 @@
+let Components = {};
+
+Components['A'] = require('./a').default;
+Components['B'] = require('./b').default;
+
+export default Components
